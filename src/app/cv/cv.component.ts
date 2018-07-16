@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class CvComponent implements OnInit {
 
   name = "Mitchell Combs";
-  address = " 315 N Miami";
-  phone = "5135012449";
+  address = " 315 N Miami, Cleves OH, 45002";
+  phone = "(513) 501-2449";
   email = "Mitch.combs.92@gmail.com";
 
 

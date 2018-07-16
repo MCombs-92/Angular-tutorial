@@ -1,0 +1,19 @@
+#info {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#info p {
+    font-size: 24pt;
+    text-decoration: underline;
+}
+
+#info h1 {
+    margin-top: -20px;
+    font-weight: bold;
+}
+
+#info h3 {
+    margin-top: -20px;
+}
